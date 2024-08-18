@@ -1,14 +1,29 @@
-<div style="text-align: center;">
+<p align="center">
   <a target="_blank">
     <img height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
   </a>
-</div>
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Marsella+P%C3%A9rez+🌻" alt="Typing SVG">
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Marsella+P%C3%A9rez+🌻)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻" alt="Typing SVG">
+  </a>
+</p>
 
-# <a href="https://github.com/chetiko"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Marsella Pérez 🌻 
+<p align="center">
+  <a href="https://github.com/chetiko">
+    <img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower">
+  </a>
+  <br>
+  How do you do? I’m Marsella Pérez 🌻
+</p>
+
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
