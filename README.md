@@ -1,15 +1,16 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+  
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Marsella+Pérez+🌻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Marsella+P%C3%A9rez+🌻)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
 
-# <a href="https://github.com/chetiko"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Marsella Pérez 🌻
+# <a href="https://github.com/chetiko"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Marsella Pérez 🌻 
 
-🙋‍♂️ Thank you for visiting my GitHub profile!
+🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 SWE Intern @ CodeDay Labs || DEV @ Google Developer Student Club || CS @ GSU || Full Stack Web Dev
+💻 Pentester || Cybersecurity Enthusiast || Full Stack Developer
 
 <hr>
 
@@ -27,11 +28,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo" title="Python" height="25"/>
+<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
 </span>
 &nbsp;
 <span>
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25"/>
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
 </span>
 &nbsp;
 <br>
@@ -74,40 +75,81 @@
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
 &nbsp;
 
-### <u> Version Control and Tools:</u>
-
-<br>
-
-<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
-&nbsp;
-
-### <u> Operating Systems and Others:</u>
+### <u> Mobile App Development Technologies & Tools: </u>
 
 <br>
 
 <span>
-<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/>
+<img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25"/>
 </span>
 &nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo"  title="Ubuntu" height="25"/>
-</span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/>
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim logo" title="Vim" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim logo" title="Neovim" height="25" /></span>
+
+### 🔒 Cybersecurity & Pentesting Tools
+
+#### <u> Pentesting Tools: </u>
 
 <br>
+
+<span><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux logo" title="Kali Linux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit logo" title="Metasploit" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Burp_Suite-FF5733?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite logo" title="Burp Suite" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap logo" title="Nmap" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owaspzap&logoColor=white" alt="OWASP ZAP logo" title="OWASP ZAP" height="25" /></span>
+&nbsp;
+
+### 🛡️ Certifications
+
+- **OSCP (Offensive Security Certified Professional)**
+- **CEH (Certified Ethical Hacker)**
+
+### 🔍 Recent Projects
+
+- **Vulnerability Assessment & Penetration Testing (VAPT)**: Conducted thorough security assessments for multiple organizations, identifying and mitigating critical vulnerabilities.
+  
+- **Bug Bounty Programs**: Actively participating in bug bounty programs, discovering and reporting security vulnerabilities to help companies improve their security posture.
+
+### 🎯 Specialties
+
+- **Web Application Security**: SQL Injection, Cross-Site Scripting (XSS), Remote Code Execution (RCE).
+- **Network Security**: Network scanning, exploitation, and securing network environments.
+- **Exploit Development**: Creating and refining exploits for known vulnerabilities.
+
+### <u> Version Control and Tools: </u>
+
 <br>
 
-<i>Contributions, suggestions, and any form of constructive feedback are always appreciated.</i>
+<span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" title="Git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab logo" title="GitLab" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket logo" title="Bitbucket" height="25" /></span>
+&nbsp;
 
-<hr>
+### 📈 GitHub Stats
+
+![Marsella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetiko&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=00bfae&hide_rank=true)
+
+### 📫 Contact Me
+
+- **LinkedIn:** [Marsella Pérez](https://www.linkedin.com/in/marsella-perez/)
+- **Email:** [marse,mp24](mailto:marse.mp24@gmail.com)
+
+### 📝 Additional Info
+
+- 🌱 I’m currently learning advanced cybersecurity techniques and tools.
+- 👯 I’m looking to collaborate on cybersecurity projects and research.
+- 🤔 I’m looking for help with vulnerability research and exploit development.
+- 💬 Ask me about cybersecurity, pentesting, and web development.
+
+---
+
+#### Credit:
+This README was inspired by [Sophie Nguyen](https://github.com/SophieNguyen113), with contributions from [Marsella Pérez](https://github.com/chetiko).
+
+
