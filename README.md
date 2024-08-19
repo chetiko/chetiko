@@ -178,7 +178,7 @@
 ### 📫 Contact Me
 
 - **LinkedIn:** [Marsella Pérez](https://www.linkedin.com/in/marsella-perez/)
-- **Email:** [marse,mp24](mailto:marse.mp24@gmail.com)
+- **Email:** [Marsella Pérez](mailto:marse.mp24@gmail.com)
 
 ### 📝 Additional Info
 
