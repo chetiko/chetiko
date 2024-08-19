@@ -143,6 +143,13 @@
 <span><img src="https://img.shields.io/badge/Prolexic-FF6F61?style=for-the-badge&logo=prolexic&logoColor=white" alt="Prolexic logo" title="Prolexic" height="25" /></span>
  
 <span><img src="https://img.shields.io/badge/NetScout-2D3E50?style=for-the-badge&logo=netscout&logoColor=white" alt="NetScout logo" title="NetScout" height="25" /></span>
+ 
+<span><img src="https://img.shields.io/badge/Arbor_Networks-005C84?style=for-the-badge&logo=arbor-networks&logoColor=white" alt="Arbor Networks logo" title="Arbor Networks" height="25" /></span>
+ 
+<span><img src="https://img.shields.io/badge/Valimail-00A7E1?style=for-the-badge&logo=valimail&logoColor=white" alt="Valimail logo" title="Valimail" height="25" /></span>
+ 
+<span><img src="https://img.shields.io/badge/Radware-0071C5?style=for-the-badge&logo=radware&logoColor=white" alt="Radware logo" title="Radware" height="25" /></span>
+
 
 
 ### 🔍 Recent Projects
