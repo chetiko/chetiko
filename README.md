@@ -147,11 +147,6 @@
 <span><img src="https://img.shields.io/badge/NetScout-2D3E50?style=for-the-badge&logo=netscout&logoColor=white" alt="NetScout logo" title="NetScout" height="25" /></span>
 
 
-### 🛡️ Certifications
-
-- **OSCP (Offensive Security Certified Professional)**
-- **CEH (Certified Ethical Hacker)**
-
 ### 🔍 Recent Projects
 
 - **Vulnerability Assessment & Penetration Testing (VAPT)**: Conducted thorough security assessments for multiple organizations, identifying and mitigating critical vulnerabilities.
