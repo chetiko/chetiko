@@ -19,11 +19,12 @@
 
 <p align="center">
   <a href="https://github.com/chetiko">
-    <img src="https://i.imgur.com/cJtGUIs.jpeg" width="200px" height="200px" alt="Sunflower">
+    <img src="https://i.imgur.com/cJtGUIs.jpeg" width="200" height="200" alt="Sunflower">
   </a>
   <br>
   How do you do? I’m Marsella Pérez 🌻
 </p>
+
 
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
