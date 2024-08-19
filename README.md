@@ -92,15 +92,6 @@
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
 &nbsp;
 
-### <u> Mobile App Development Technologies & Tools: </u>
-
-<br>
-
-<span>
-<img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25"/>
-</span>
-&nbsp;
-
 ### 🔒 Cybersecurity & Pentesting Tools
 
 #### <u> Pentesting Tools: </u>
