@@ -27,7 +27,8 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 Pentester || Cybersecurity Enthusiast || Full Stack Developer
+💻 Pentester | Cybersecurity Enthusiast | Full Stack Developer | Vulnerability Researcher | Anti-DDoS Specialist
+
 
 <hr>
 
