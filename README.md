@@ -158,6 +158,7 @@
 - **Web Application Security**: SQL Injection, Cross-Site Scripting (XSS), Remote Code Execution (RCE).
 - **Network Security**: Network scanning, exploitation, and securing network environments.
 - **Exploit Development**: Creating and refining exploits for known vulnerabilities.
+- **Anti-DDoS Filters**: Implementing and managing anti-DDoS filters, including techniques and tools for mitigating distributed denial-of-service attacks.
 
 ### <u> Version Control and Tools: </u>
 
