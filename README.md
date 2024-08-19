@@ -116,8 +116,21 @@
  
 <span><img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owaspzap&logoColor=white" alt="OWASP ZAP logo" title="OWASP ZAP" height="25" /></span>
  
+<span><img src="https://img.shields.io/badge/Sqlmap-0E9F1A?style=for-the-badge&logo=sql&logoColor=white" alt="Sqlmap logo" title="Sqlmap" height="25" /></span>
+ 
+<span><img src="https://img.shields.io/badge/John_the_Ripper-FFD700?style=for-the-badge&logo=johntheripper&logoColor=black" alt="John the Ripper logo" title="John the Ripper" height="25" /></span>
+ 
+<span><img src="https://img.shields.io/badge/Hashcat-00A0D1?style=for-the-badge&logo=hashcat&logoColor=white" alt="Hashcat logo" title="Hashcat" height="25" /></span>
+ 
+<span><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark logo" title="Wireshark" height="25" /></span>
+ 
+<span><img src="https://img.shields.io/badge/Ettercap-EC5C4D?style=for-the-badge&logo=ettercap&logoColor=white" alt="Ettercap logo" title="Ettercap" height="25" /></span>
+ 
+<span><img src="https://img.shields.io/badge/Nessus-3D5B9B?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus logo" title="Nessus" height="25" /></span>
 
-<u> Anti-DDoS & Security Tools: </u>
+ 
+
+#### <u> Anti-DDoS & Security Tools: </u>
 <br>
 <span><img src="https://img.shields.io/badge/Cloudflare-F7B700?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare logo" title="Cloudflare" height="25" /></span>
  
